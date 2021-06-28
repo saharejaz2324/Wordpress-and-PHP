@@ -1,0 +1,70 @@
+[02-Dec-2020 06:47:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\theme.php on line 546
+[02-Dec-2020 06:47:00 UTC] PHP Stack trace:
+[02-Dec-2020 06:47:00 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[02-Dec-2020 06:47:00 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[02-Dec-2020 06:47:00 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[02-Dec-2020 06:47:00 UTC] PHP   4. Theme_Upgrader->install_package() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:797
+[02-Dec-2020 06:47:00 UTC] PHP   5. apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:624
+[02-Dec-2020 06:47:00 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:206
+[02-Dec-2020 06:47:00 UTC] PHP   7. Theme_Upgrader->check_parent_theme_filter() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:287
+[02-Dec-2020 06:47:00 UTC] PHP   8. themes_api() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:144
+[02-Dec-2020 06:47:00 UTC] PHP   9. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\theme.php:546
+[02-Dec-2020 06:47:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php on line 607
+[02-Dec-2020 06:47:32 UTC] PHP Stack trace:
+[02-Dec-2020 06:47:32 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[02-Dec-2020 06:47:32 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[02-Dec-2020 06:47:32 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[02-Dec-2020 06:47:32 UTC] PHP   4. do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:847
+[02-Dec-2020 06:47:32 UTC] PHP   5. WP_Hook->do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:478
+[02-Dec-2020 06:47:32 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:311
+[02-Dec-2020 06:47:32 UTC] PHP   7. wp_update_themes() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:285
+[02-Dec-2020 06:47:32 UTC] PHP   8. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php:607
+[03-Dec-2020 04:30:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php on line 607
+[03-Dec-2020 04:30:43 UTC] PHP Stack trace:
+[03-Dec-2020 04:30:43 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[03-Dec-2020 04:30:43 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[03-Dec-2020 04:30:43 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[03-Dec-2020 04:30:43 UTC] PHP   4. do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:847
+[03-Dec-2020 04:30:43 UTC] PHP   5. WP_Hook->do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:478
+[03-Dec-2020 04:30:43 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:311
+[03-Dec-2020 04:30:43 UTC] PHP   7. wp_update_themes() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:285
+[03-Dec-2020 04:30:43 UTC] PHP   8. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php:607
+[03-Dec-2020 05:15:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php on line 403
+[03-Dec-2020 05:15:12 UTC] PHP Stack trace:
+[03-Dec-2020 05:15:12 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[03-Dec-2020 05:15:12 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[03-Dec-2020 05:15:12 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[03-Dec-2020 05:15:12 UTC] PHP   4. do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:847
+[03-Dec-2020 05:15:12 UTC] PHP   5. WP_Hook->do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:478
+[03-Dec-2020 05:15:12 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:311
+[03-Dec-2020 05:15:12 UTC] PHP   7. wp_update_plugins() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:285
+[03-Dec-2020 05:15:12 UTC] PHP   8. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php:403
+[03-Dec-2020 05:15:16 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php on line 607
+[03-Dec-2020 05:15:16 UTC] PHP Stack trace:
+[03-Dec-2020 05:15:16 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[03-Dec-2020 05:15:16 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[03-Dec-2020 05:15:16 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[03-Dec-2020 05:15:16 UTC] PHP   4. do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:847
+[03-Dec-2020 05:15:16 UTC] PHP   5. WP_Hook->do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:478
+[03-Dec-2020 05:15:16 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:311
+[03-Dec-2020 05:15:16 UTC] PHP   7. wp_update_themes() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:285
+[03-Dec-2020 05:15:16 UTC] PHP   8. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php:607
+[03-Dec-2020 05:18:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php on line 403
+[03-Dec-2020 05:18:14 UTC] PHP Stack trace:
+[03-Dec-2020 05:18:14 UTC] PHP   1. {main}() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:0
+[03-Dec-2020 05:18:14 UTC] PHP   2. Theme_Upgrader->install() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\update.php:314
+[03-Dec-2020 05:18:14 UTC] PHP   3. Theme_Upgrader->run() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-theme-upgrader.php:250
+[03-Dec-2020 05:18:14 UTC] PHP   4. do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-admin\includes\class-wp-upgrader.php:847
+[03-Dec-2020 05:18:14 UTC] PHP   5. WP_Hook->do_action() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\plugin.php:478
+[03-Dec-2020 05:18:14 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:311
+[03-Dec-2020 05:18:14 UTC] PHP   7. wp_update_plugins() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\class-wp-hook.php:285
+[03-Dec-2020 05:18:14 UTC] PHP   8. trigger_error() C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-includes\update.php:403
+[03-Dec-2020 09:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_custom_logo() in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-content\themes\wphierarchy\functions.php:1
+Stack trace:
+#0 C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-settings.php(514): include()
+#1 C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-config.php(77): require_once('C:\\Users\\sej\\Lo...')
+#2 C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-load.php(37): require_once('C:\\Users\\sej\\Lo...')
+#3 C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-blog-header.php(13): require_once('C:\\Users\\sej\\Lo...')
+#4 C:\Users\sej\Local Sites\wordpress-themes\app\public\index.php(17): require('C:\\Users\\sej\\Lo...')
+#5 {main}
+  thrown in C:\Users\sej\Local Sites\wordpress-themes\app\public\wp-content\themes\wphierarchy\functions.php on line 1
